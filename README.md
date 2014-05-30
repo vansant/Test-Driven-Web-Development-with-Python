@@ -1,6 +1,6 @@
 Test-Driven-Web-Development-with-Python
 =======================================
-
+<pre>
 Setup
 1. Python 3 Virtualenv
 2. (Python3-venv)$ pip install django selenium
@@ -18,3 +18,4 @@ Solutions from May 29, 2014
     start_cmd = ""
     if platform.system() == "Darwin":
         start_cmd = ("/set/path/to/Firefox.app/Contents/MacOS/firefox-bin")
+</pre>

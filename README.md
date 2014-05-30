@@ -19,6 +19,6 @@ Solutions from May 29, 2014
     start_cmd = ""
     if platform.system() == "Darwin":
         start_cmd = ("/set/path/to/Firefox.app/Contents/MacOS/firefox-bin")
-3. Ignored knowing this file will be created later.
+3. Ignored knowing this file will be created later. It was however, already in my .gitignore - new users to Django might get confused here.
 
 </pre>

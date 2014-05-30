@@ -1,6 +1,9 @@
 Test-Driven-Web-Development-with-Python
 =======================================
 <pre>
+
+Start Chapter 1
+
 Setup
 1. Python 3 Virtualenv
 2. (Python3-venv)$ pip install django selenium
@@ -21,4 +24,5 @@ Solutions from May 29, 2014
         start_cmd = ("/set/path/to/Firefox.app/Contents/MacOS/firefox-bin")
 3. Ignored knowing this file will be created later. It was however, already in my .gitignore - new users to Django might get confused here.
 
+End Chapter 1
 </pre>

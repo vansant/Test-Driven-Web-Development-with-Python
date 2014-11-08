@@ -1,5 +1,2 @@
 *.pyc
 .DS_STORE
-settings/
-db.sqlite3
-secret_key.py
